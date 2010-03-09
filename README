@@ -1,0 +1,7 @@
+Some code snippets to let you have a custom short domain for your wordpress blog.
+
+There are two pieces here:
+
+1. Code to be put on the server for your shorter domain.  This code is under the short_domain folder.  It's just an htaccess file and a php file.  You will want to change the $longdomain variable in the redirect.php file.
+
+2. A wordpress plugin that will show you what your short url is for each post.  This is not yet available here but will be shortly.
